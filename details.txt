@@ -1,0 +1,6 @@
+Dataset: https://www.kaggle.com/alxmamaev/flowers-recognition
+
+Techniques used: 
+- Transfer learning on pretrained ResNet50 model
+- Pytorch as the deep learning framework
+- Model was trained on Google Colab GPUs
