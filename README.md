@@ -1,5 +1,7 @@
 # Flower-Classification-Kaggle
 
+#### <a href="https://github.com/soumitri2001/Flower-Classification-Kaggle/blob/main/Flower_Classification_Pytorch.ipynb">Link to Notebook</a>
+
 - Built a CNN model to classify flower images into respective classes
 - Dataset was obtained from kaggle : https://www.kaggle.com/alxmamaev/flowers-recognition
 - Used Transfer Learning on a pre-trained ResNet50 model , implementation done in PyTorch
