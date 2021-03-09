@@ -4,3 +4,7 @@ Techniques used:
 - Transfer learning on pretrained ResNet50 model
 - Pytorch as the deep learning framework
 - Model was trained on Google Colab GPUs
+
+Accuracy:
+- 99.76% on training data
+- 94.34% on testing data
