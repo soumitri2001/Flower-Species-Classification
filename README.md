@@ -1,9 +1,7 @@
 # Flower-Classification-Kaggle
 
-#### <a href="https://github.com/soumitri2001/Flower-Classification-Kaggle/blob/main/Flower_Classification_Pytorch.ipynb">Link to Notebook</a>
-
-- Built a CNN model to classify flower images into respective classes
+- Built a two-stage framework using Deep Learning and Evolutionary Optimization to classify flower images into respective classes
 - Dataset was obtained from kaggle : https://www.kaggle.com/alxmamaev/flowers-recognition
-- Used Transfer Learning on a pre-trained ResNet50 model , implementation done in PyTorch
-- Also performed deep feature extraction on the entire dataset using the model (which maybe used for optimization to further improve the model's performance) 
-- Achieved accuracy of <b>99.76%</b> on training dataset and <b>94.34%</b> on validation dataset
+- Used Transfer Learning for deep feature extraction using ResNet50, implementation done in PyTorch
+- Used Genetic Algorithm (GA) for Feature Selection on the extracted features and improved classification accuracy by around 1% along with a feature reduction of 54% 
+- Achieved validation accuracy of <b>99.34%</b> from deep learning and <b>95.26%</b> after applying Feature Selection
