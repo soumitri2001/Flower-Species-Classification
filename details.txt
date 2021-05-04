@@ -1,10 +1,11 @@
 Dataset: https://www.kaggle.com/alxmamaev/flowers-recognition
 
 Techniques used: 
-- Transfer learning on pretrained ResNet50 model
+- Transfer learning using pretrained ResNet50 model
+- Feature Selection using Evolutionary Optimization Algorithms (GA)
 - Pytorch as the deep learning framework
 - Model was trained on Google Colab GPUs
 
 Accuracy:
-- 99.76% on training data
-- 94.34% on testing data
+- 94.34% using Transfer Learning
+- 95.26% after Feature Selection using GA
