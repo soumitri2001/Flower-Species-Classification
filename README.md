@@ -1,4 +1,4 @@
-# Flower-Classification-Kaggle
+# Flower Species Classification
 
 - Built a two-stage framework using Deep Learning and Evolutionary Optimization to classify flower images into respective classes
 - Dataset was obtained from kaggle : https://www.kaggle.com/alxmamaev/flowers-recognition
